@@ -72,7 +72,7 @@ clap = { version = "4", features = ["derive"] }
 expect-test = "1"
 proc-macro2 = "1"
 quote = "1"
-prettyplease = "0"
+prettyplease = "0.3"
 rustc-hash = "2"
 combine = "4"
 thiserror = "2"
